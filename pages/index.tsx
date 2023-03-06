@@ -70,8 +70,8 @@ const Home: NextPage = () => {
           </div>
         </div>
       </main>
-      <Testimonials />
-      <Footer />
+<!--       <Testimonials />
+      <Footer /> -->
     </div>
   );
 };
